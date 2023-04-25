@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\CarsLab\CarsLab\bin\Debug\net6.0\CarsLab.exe
+C:\Users\bowha\source\repos\CarsLab\CarsLab\bin\Debug\net6.0\CarsLab.deps.json
+C:\Users\bowha\source\repos\CarsLab\CarsLab\bin\Debug\net6.0\CarsLab.runtimeconfig.json
+C:\Users\bowha\source\repos\CarsLab\CarsLab\bin\Debug\net6.0\CarsLab.dll
+C:\Users\bowha\source\repos\CarsLab\CarsLab\bin\Debug\net6.0\CarsLab.pdb
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.dll
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\refint\CarsLab.dll
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.pdb
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\CarsLab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\CarsLab\CarsLab\obj\Debug\net6.0\ref\CarsLab.dll
